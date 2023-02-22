@@ -7,4 +7,5 @@ interface MyApi {
 
     @GET("googlecodelabs/kotlin-coroutines/master/advanced-coroutines-codelab/sunflower/src/main/assets/plants.json")
     suspend fun getAllPlants() : List<Plant>
+
 }

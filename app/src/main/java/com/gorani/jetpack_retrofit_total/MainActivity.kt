@@ -9,7 +9,7 @@ import com.gorani.jetpack_retrofit_total.adapter.CustomAdapter
 import com.gorani.jetpack_retrofit_total.viewmodel.MainViewModel
 
 /**
- * API)
+ * Fruit API)
  * https://raw.githubusercontent.com/googlecodelabs/kotlin-coroutines/master/advanced-coroutines-codelab/sunflower/src/main/assets/plants.json
  */
 
